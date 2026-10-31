@@ -1,4 +1,5 @@
-<img width="1376" height="768" alt="Gemini_Generated_Image_rsi1fhrsi1fhrsi1" src="https://github.com/user-attachments/assets/e3148289-71c6-44df-a297-f8a4f3554cc2" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/a278e72e-38e2-4b70-bf3a-666d663fa1e7" />
+
 
 # Introduction
 This tutorial covers content from both the CS230 Stanford and Prof. Mu Li's videos on BiliBili. Some background knowledge can be found in my other guide -- ML-for-Sanan-Li.   
